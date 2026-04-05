@@ -2,7 +2,7 @@
 
 > **Budget-friendly hosting for players and communities who want reliable performance without the price tag.**
 
-Game servers and VPS starting from just **$3/month** — instant setup, no hidden fees, and real support when you need it. Get online fast and stay online longer.
+Game servers and VPS starting from just **$TBC/month** — instant setup, no hidden fees, and real support when you need it. Get online fast and stay online longer.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Support](https://img.shields.io/badge/support-24%2F7-blue)
@@ -28,7 +28,7 @@ Game servers and VPS starting from just **$3/month** — instant setup, no hidde
 - 🎮 **Easy to Use Panel** — intuitive game server management out of the box
 - 💬 **Real Support** — actual humans via Discord and web support tickets
 - 💸 **No Hidden Fees** — what you see is what you pay
-- 💸 **Free Trial Period** — trial a server for 7 days before you decide
+- 🕓 **Free Trial Period** — trial a server for 7 days before you decide
 
 ---
 
@@ -47,9 +47,9 @@ Game servers and VPS starting from just **$3/month** — instant setup, no hidde
 ## 🚀 Getting Started
 
 1. Visit [vertexhosting.pro](https://vertexhosting.pro) and create an account
-2. Choose a product and select a plan
-3. Configure your server and complete checkout
-4. Access your server instantly via the game panel or SSH
+2. Choose a product and select a plan or start a free trial.
+3. Configure your server and complete checkout.
+4. Access your server instantly via the game panel or [SSH](https://lyrdy.page/vertex-hosting/using-ssh).
 
 > 📖 Need help? Check out our [full setup guide](https://docs.vertexservers.gg/getting-started).
 
