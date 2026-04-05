@@ -51,7 +51,7 @@ Game servers and VPS starting from just **$TBC/month** — instant setup, no hid
 3. Configure your server and complete checkout.
 4. Access your server instantly via the game panel or [SSH](https://lyrdy.page/vertex-hosting/using-ssh).
 
-> 📖 Need help? Check out our [full setup guide](https://docs.vertexservers.gg/getting-started).
+> 📖 Need help? Check out our [guides](https://lyrdy.page/vertex-hosting).
 
 ---
 
@@ -59,17 +59,16 @@ Game servers and VPS starting from just **$TBC/month** — instant setup, no hid
 
 | | |
 |---|---|
-| 🌐 Website | [vertexservers.gg](https://vertexservers.gg) |
-| 💬 Discord | [discord.gg/vertexservers](https://discord.gg/vertexservers) |
-| 📖 Docs | [docs.vertexservers.gg](https://docs.vertexservers.gg) |
-| 📧 Support | support@vertexservers.gg |
-| 🐦 Twitter/X | [@vertexservers](https://twitter.com/vertexservers) |
+| 🌐 Website | [vertexhosting.pro](https://vertexhosting.pro) |
+| 💬 Discord | [https://discord.gg/NBnQvWpQQZ](https://discord.gg/NBnQvWpQQZ) |
+| 📖 Docs | [https://lyrdy.page/vertex-hosting](https://lyrdy.page/vertex-hosting) |
+| 📧 Support | TBC |
 
 ---
 
 ## 📄 Legal
 
-Vertex Servers is operated by **Vertex Software Services Pty Ltd**, registered in Australia.
+Coming soon
 
 ---
 
