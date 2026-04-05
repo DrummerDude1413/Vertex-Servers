@@ -6,7 +6,7 @@ Game servers and VPS starting from just **$3/month** — instant setup, no hidde
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Support](https://img.shields.io/badge/support-24%2F7-blue)
-![Uptime](https://img.shields.io/badge/uptime-99.9%25-success)
+![Uptime](https://img.shields.io/badge/uptime-98.33%25-success)
 
 ---
 
