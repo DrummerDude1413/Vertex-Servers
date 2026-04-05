@@ -14,39 +14,39 @@ Game servers and VPS starting from just **$3/month** — instant setup, no hidde
 
 | Product | Starting Price | Best For |
 |---|---|---|
-| 🎮 **Game Servers** | $3.00 / month | Minecraft, Valheim, ARK, Rust & more |
-| 🖧 **VPS** | $6.00 / month | Game panels, web apps, custom setups |
-| ⚙️ **Dedicated Servers** | $60.00 / month | Large communities, maximum performance |
+| 🎮 **Game Servers** | $TBC / month | Minecraft, Valheim, ARK, Rust & more |
+| 🖧 **VPS** | $TBC / month | Game panels, web apps, custom setups |
 
 ---
 
 ## ✨ Features
 
-- ⚡ **Instant Setup** — your server is live in under 60 seconds
-- 🛡️ **DDoS Protection** — included on every plan, no extra cost
+- ⚡ **Instant Setup** — your server is live in under 90 seconds
+- 🛡️ **CloudFlare DDoS Protection** — included on every plan, no extra cost
 - 💾 **NVMe SSD Storage** — fast I/O for smooth gameplay and quick world loads
 - 🌏 **Multiple Locations** — US East, US West, EU, and AU
-- 🎮 **Pterodactyl Panel** — intuitive game server management out of the box
-- 💬 **Real Support** — actual humans via Discord and support tickets
+- 🎮 **Easy to Use Panel** — intuitive game server management out of the box
+- 💬 **Real Support** — actual humans via Discord and web support tickets
 - 💸 **No Hidden Fees** — what you see is what you pay
+- 💸 **Free Trial Period** — trial a server for 7 days before you decide
 
 ---
 
 ## 🎮 Supported Games
 
-- ⛏️ Minecraft (Vanilla, Spigot, Paper, Fabric, NeoForge, and more)
+- ⛏️ Minecraft (Vanilla, Spigot, Paper, Fabric, NeoForge, and more) (Includes Proxies)
 - 🌲 Valheim
 - 🦕 ARK: Survival Evolved
 - 💣 Rust
 - 🔫 Counter-Strike 2
 - 🪓 7 Days to Die
-- *...and more added regularly*
+- *more coming soon*
 
 ---
 
 ## 🚀 Getting Started
 
-1. Visit [vertexservers.gg](https://vertexservers.gg) and create an account
+1. Visit [vertexhosting.pro](https://vertexhosting.pro) and create an account
 2. Choose a product and select a plan
 3. Configure your server and complete checkout
 4. Access your server instantly via the game panel or SSH
